@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nelson Pacheco
+- 👋 Hi, I’m Nelson Pacheco from Portugal
 - 👀 I’m interested in becoming a Front-End Web Developer
 - 🌱 I’m currently learning HTML, CSS and Javascript
 
